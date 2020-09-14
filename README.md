@@ -1,5 +1,10 @@
 ### Hi there, I'm Jonathan! 👋
 
+I'm looking for Winter 2021 Internships
+
+- 🔭 I’m currently working on ...
+
+
 <!--
 **Jonathancui123/Jonathancui123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
