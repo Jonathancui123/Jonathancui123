@@ -4,7 +4,7 @@ I'm looking for internships starting in January 2021 - if you have something in 
 
 - 🔭 I’m working on a [real-time whiteboarding and coding platform](https://itsohana.com) for friends 💻
 - 🐣 I've built an automatic [party playlist curator](https://github.com/Jonathancui123/Ohana) 🎶, and a [drag and drop editor](https://github.com/Jonathancui123/Scribbit) that ingests handwritten notes 📝
-- 🌱 I'm currently learning Golang and [exploring the world of concurrency/multithreading](https://github.com/Jonathancui123/Python-Multithread-Scraper)!
+- 🌱 I'm currently [learning Golang](https://github.com/Jonathancui123/go-peer-network) and [exploring the world of concurrency/multithreading](https://github.com/Jonathancui123/Python-Multithread-Scraper)!
 - 💬 Ask me about my favorite ramen
 
 
