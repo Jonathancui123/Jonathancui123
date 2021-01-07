@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan! 👋
 
-I'm looking for internships starting in January 2021 - if you have something in mind, [lets chat](https://www.linkedin.com/in/jonathan-cui/)!
+I'm looking for internships starting in September 2021 - if you have something in mind, [lets chat](https://www.linkedin.com/in/jonathan-cui/)!
 
 - 🔭 I’m working on a [real-time whiteboarding and coding platform](https://itsohana.com) for friends 💻
 - 🐣 I've built an automatic [party playlist curator](https://github.com/Jonathancui123/Ohana) 🎶, and a [drag and drop editor](https://github.com/Jonathancui123/Scribbit) that ingests handwritten notes 📝
